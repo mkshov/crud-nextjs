@@ -1,0 +1,24 @@
+.slide-inner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-100%, -40%);
+  background-color: white;
+  padding: 20px;
+  color: #2e76d2;
+  opacity: 0.8;
+  max-width: 400px;
+}
+
+.slide-inner h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.slide-inner p {
+  margin: 10px 0;
+}
+
+.slide-inner button {
+  width: 100%;
+}
